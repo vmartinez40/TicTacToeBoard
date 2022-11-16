@@ -15,4 +15,10 @@ class TicTacToeBoardTest : public ::testing::Test
 };
 
 
+TEST(TicTacToeBoardTest, turn_is_x){
+	TicTacToeBoard myboard;
+	Piece actual = X;
+	//add 
+
+}
 
